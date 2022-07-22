@@ -6,13 +6,16 @@
 ### <div align="center">Hi, I'm Ayşen Alpaslan!</div>  
   
 
-- 🏫 I’m currently a student of **Adnan Menderes University**  
+- 🏫 I graduated from **Adnan Menderes University**  
   
 
-- 💻 I’m currently learning **React and React-Native**  
+- 💻 I’m currently learning **React**  
+
+
+- 👀 I'm interested in **Front-end Development**
   
 
-- 📧 You can reach me at aysenalpaslan01@gmail.com  
+- 📧 You can reach me at aysenalpaslan01@gmail.com    
   
 
 <br/>  
