@@ -9,10 +9,10 @@
 - 🏫 I graduated from **Adnan Menderes University**  
   
 
-- 💻 I’m currently learning **React**  
+- 💻 I’m currently learning **Swift**  
 
 
-- 👀 I'm interested in **Front-end Development**
+- 👀 I'm interested in **Front-end Development and Mobile Development**
   
 
 - 📧 You can reach me at aysenalpaslan01@gmail.com    
